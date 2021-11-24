@@ -8,7 +8,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+Have you ever been bored at home, wondering if there was anything going on around you? Well we have, and we want to create a solution. Our application will allow both locals and tourists to find events going on in their current locale. It will also allow vetted event planners to post their events, and give them a platform for their event to reach the public. As users search for events, they will be able to filter their searches by distance from them, certain location, key words, name, price, and whether or not an event is child-friendly, among other things. Their search results can be displayed on either a map or a list, and as users browse, they will be able to favorite events that interest them to have easy access at a later time. Once a user starts to interact with the site, they can choose to receive notifications about upcoming events that might interest them or are going on around them.
+
+As an event planner, you will be able to display important information about your event, such as time, date, cost, location, name, description, etc. As your events are created, they will appear in searches and users will be allowed to favorite them. You also have the option to edit an event after posting it, in case your event information changes. Lastly you can keep track of the different events you've hosted on your profile, which will display any upcoming and past events you've planned or are planning.
 ### Features
 
 Create Event - Users with specific authorization will be able to create events: Name, Date, Description, location, Cost
